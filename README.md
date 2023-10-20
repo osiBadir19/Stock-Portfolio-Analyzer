@@ -13,4 +13,3 @@ The Stock Portfolio Analyzer is a Python-based tool designed for efficient stock
 
 ## Installation
 1. Ensure you have Python installed.
-2. Clone this repository:
